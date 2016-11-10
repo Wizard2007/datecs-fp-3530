@@ -1,4 +1,4 @@
-# ruby-library ruby  garage
+# datecs fp 3530
 
 The component is designed for simple addition of the ability to work with fiscal register in you applications.
 
